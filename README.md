@@ -11,6 +11,8 @@ I ship apps by day and terminal toys by night. 🐠
 
 - 🐠 **[Aquarium](https://github.com/agiletalk/Aquarium)** — a tiny healing aquarium in your terminal. Fish swim, chase food, and have babies.
   <br>터미널 속 힐링 ASCII 어항 — `brew install agiletalk/tap/aquarium`
+- 🚢 **[relnote](https://github.com/agiletalk/relnote)** — release notes, curated for humans. Turns your git log into user-facing notes via Claude Code or Apple's on-device model — no API keys.
+  <br>커밋 로그를 사용자용 릴리즈 노트로 큐레이션하는 LLM CLI — `brew install agiletalk/tap/relnote`
 - 🎨 **[agile-xcode-themes](https://github.com/agiletalk/agile-xcode-themes)** — light & dark Xcode themes inspired by GitHub, Quiet Light, and Sundell colors.
   <br>매일 보는 에디터니까, 눈이 편한 Xcode 테마
 - 📝 **[SwiftUINote](https://github.com/agiletalk/SwiftUINote)** — a simple note app from SwiftUI's very first summer (2019).
