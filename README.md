@@ -22,4 +22,4 @@ I ship apps by day and terminal toys by night. 🐠
 
 ## Elsewhere
 
-✍️ [Blog — That About Sums It Up](https://agiletalk.github.io) · 📄 [Resume](https://github.com/agiletalk/resume)
+✍️ [Blog](https://agiletalk.github.io) · 📄 [Resume](https://github.com/agiletalk/resume)
