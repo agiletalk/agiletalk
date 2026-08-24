@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/agiletalk">
+    <img src="profile.svg" alt="chanju@wantedlab — neofetch-style profile" />
+  </a>
+</div>
+
 # chanju Jeon · 전찬주
 
 iOS engineer at [Wanted](https://www.wanted.co.kr), building better hiring experiences.
